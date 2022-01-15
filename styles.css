@@ -108,6 +108,7 @@ font-family: "ubuntu";
 #pricing .col{
     padding: 3%;
 }
+//for iphone image
 @media (max-width:1002px)
 {
     .text-image{
