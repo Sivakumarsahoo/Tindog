@@ -2,22 +2,27 @@
 {
     background: #ff4c68;
 }
-h1,h2,h3,h4{
+h1{
+    
     font-family: "Montserrat-Black";
     font-size: 3rem;
     line-height: 1.5;
-}
-h1{  
     font-weight: bold;
     color: white;
 }
 h2{
     color: white;
+    font-family:"Montserrat-Black ";
+    font-size: 3rem;
+    /* font-weight: bold; */
+    line-height: 1.5;
 }
 h3{
     font-weight: bold;
 }
 #cta h3{
+    font-family:"ubuntu ";
+    font-size: 3rem;
     margin-bottom: 3%;
 }
 .container-fluid{
